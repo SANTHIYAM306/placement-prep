@@ -1,0 +1,14 @@
+name = "santhiya m"
+age = 20
+cgpa = 9.1
+placed = True 
+
+printf(f"name:{name}")
+printf(f"age:{age}")
+printf(f"cgpa:{cgpa}")
+printf(f"placed:{placed}")
+
+printf(type(name))
+printf(type(age))
+printf(type(cgpa))
+printf(type(placed))
